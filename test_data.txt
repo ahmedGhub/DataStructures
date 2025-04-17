@@ -1,0 +1,7 @@
+user1,100.0
+user2,-50.5
+user1,-25.0
+user3,10.0
+user2,20.0
+user4,notanumber
+malformedline
